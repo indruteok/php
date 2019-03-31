@@ -1,0 +1,24 @@
+id: 63
+Vardas: vardenis
+Pavarde: pavardenis
+Emailas: emailas
+Telefonas: telefonas
+Adresas: adresas
+Lytis: Moteris
+Seimos statusas: statusas
+id: 64
+Vardas: grthgretw
+Pavarde: t
+Emailas: rtw4y
+Telefonas: rtreth
+Adresas: rg
+Lytis: Vyras
+Seimos statusas: h
+id: 65
+Vardas: g
+Pavarde: g
+Emailas: g
+Telefonas: g
+Adresas: g
+Lytis: Vyras
+Seimos statusas: g
